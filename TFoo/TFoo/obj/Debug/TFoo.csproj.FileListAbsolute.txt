@@ -1,0 +1,12 @@
+D:\C#Project\TFoo\TFoo\bin\Debug\TFoo.exe.config
+D:\C#Project\TFoo\TFoo\bin\Debug\TFoo.exe
+D:\C#Project\TFoo\TFoo\bin\Debug\TFoo.pdb
+D:\C#Project\TFoo\TFoo\obj\Debug\TFoo.csprojResolveAssemblyReference.cache
+D:\C#Project\TFoo\TFoo\obj\Debug\TFoo.exe
+D:\C#Project\TFoo\TFoo\obj\Debug\TFoo.pdb
+G:\C#Project\TFoo\TFoo\bin\Debug\TFoo.exe.config
+G:\C#Project\TFoo\TFoo\obj\Debug\TFoo.exe
+G:\C#Project\TFoo\TFoo\obj\Debug\TFoo.pdb
+G:\C#Project\TFoo\TFoo\bin\Debug\TFoo.exe
+G:\C#Project\TFoo\TFoo\bin\Debug\TFoo.pdb
+G:\C#Project\TFoo\TFoo\obj\Debug\TFoo.csprojResolveAssemblyReference.cache

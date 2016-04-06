@@ -1,0 +1,6 @@
+G:\C#Project\TVS2015\TVS2015\bin\Debug\TVS2015.exe.config
+G:\C#Project\TVS2015\TVS2015\bin\Debug\TVS2015.exe
+G:\C#Project\TVS2015\TVS2015\bin\Debug\TVS2015.pdb
+G:\C#Project\TVS2015\TVS2015\obj\Debug\TVS2015.csprojResolveAssemblyReference.cache
+G:\C#Project\TVS2015\TVS2015\obj\Debug\TVS2015.exe
+G:\C#Project\TVS2015\TVS2015\obj\Debug\TVS2015.pdb

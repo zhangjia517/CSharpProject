@@ -1,0 +1,6 @@
+G:\C#Project\TLambda\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+G:\C#Project\TLambda\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+G:\C#Project\TLambda\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+G:\C#Project\TLambda\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+G:\C#Project\TLambda\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+G:\C#Project\TLambda\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

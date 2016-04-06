@@ -1,0 +1,11 @@
+D:\C#Project\TBubbleSort\TBubbleSort\bin\Debug\TBubbleSort.exe.config
+D:\C#Project\TBubbleSort\TBubbleSort\bin\Debug\TBubbleSort.exe
+D:\C#Project\TBubbleSort\TBubbleSort\bin\Debug\TBubbleSort.pdb
+D:\C#Project\TBubbleSort\TBubbleSort\obj\Debug\TBubbleSort.exe
+D:\C#Project\TBubbleSort\TBubbleSort\obj\Debug\TBubbleSort.pdb
+G:\C#Project\TBubbleSort\TBubbleSort\bin\Debug\TBubbleSort.exe.config
+G:\C#Project\TBubbleSort\TBubbleSort\obj\Debug\TBubbleSort.exe
+G:\C#Project\TBubbleSort\TBubbleSort\obj\Debug\TBubbleSort.pdb
+G:\C#Project\TBubbleSort\TBubbleSort\bin\Debug\TBubbleSort.exe
+G:\C#Project\TBubbleSort\TBubbleSort\bin\Debug\TBubbleSort.pdb
+G:\C#Project\TBubbleSort\TBubbleSort\obj\Debug\TBubbleSort.csprojResolveAssemblyReference.cache
