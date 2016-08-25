@@ -1,16 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TBubbleSort
 {
-    class Program
+    internal class Program
     {
-        static int[] array = new int[] { 5, 2, 2, 4, 5, 7, 8 };
+        private static int[] array = new int[] { 5, 2, 2, 4, 5, 7, 8 };
 
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             BubbleSort();
             foreach (int i in array)
@@ -36,6 +32,5 @@ namespace TBubbleSort
                 }
             }
         }
-
     }
 }
