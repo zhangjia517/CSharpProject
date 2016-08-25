@@ -9,3 +9,6 @@ G:\C#Project\TBubbleSort\TBubbleSort\obj\Debug\TBubbleSort.pdb
 G:\C#Project\TBubbleSort\TBubbleSort\bin\Debug\TBubbleSort.exe
 G:\C#Project\TBubbleSort\TBubbleSort\bin\Debug\TBubbleSort.pdb
 G:\C#Project\TBubbleSort\TBubbleSort\obj\Debug\TBubbleSort.csprojResolveAssemblyReference.cache
+G:\CSharpProject\TBubbleSort\TBubbleSort\bin\Debug\TBubbleSort.exe.config
+G:\CSharpProject\TBubbleSort\TBubbleSort\obj\Debug\TBubbleSort.exe
+G:\CSharpProject\TBubbleSort\TBubbleSort\obj\Debug\TBubbleSort.pdb
