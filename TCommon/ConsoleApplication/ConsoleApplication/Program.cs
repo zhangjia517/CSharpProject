@@ -6,9 +6,7 @@ namespace ConsoleApplication
     {
         private static void Main(string[] args)
         {
-            int i = 6;
-            TOutMax.OutInt(i);
-            Console.WriteLine(i);
+            TJson.ToJ();
         }
     }
 }

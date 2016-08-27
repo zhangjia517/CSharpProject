@@ -4,3 +4,10 @@ G:\CSharpProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\Console
 G:\CSharpProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
 G:\CSharpProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
 G:\CSharpProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+D:\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\LitJson.dll
