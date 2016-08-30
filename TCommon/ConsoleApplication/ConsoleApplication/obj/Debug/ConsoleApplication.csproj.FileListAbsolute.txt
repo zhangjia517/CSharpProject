@@ -11,3 +11,4 @@ D:\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\Co
 D:\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
 D:\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
 D:\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\LitJson.dll
+G:\CSharpProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\LitJson.dll
