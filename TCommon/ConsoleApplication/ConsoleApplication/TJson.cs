@@ -6,6 +6,7 @@ namespace ConsoleApplication
     public class Video
     {
         public string URL { get; set; }
+		
     }
 
     internal class TJson
