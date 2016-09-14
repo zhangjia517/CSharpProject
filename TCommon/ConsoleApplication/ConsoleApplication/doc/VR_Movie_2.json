@@ -3,7 +3,7 @@
 	{
 		"url" :"/storage/emulated/0/mj_market/data/_start.mp4",
 		"startTipTime":31,
-		"endTipTime":48,
+		"endTipTime":47,
 		"listCount": 3,		
 		"list":
 		{
@@ -245,5 +245,12 @@
 				"listCount": 0				
 			}	
 		}
-	}
+	},
+	
+	
+	"end.mp4":
+	{
+		"url" :"/storage/emulated/0/mj_market/data/end.mp4",
+		"listCount": 0				
+	}	
 }
