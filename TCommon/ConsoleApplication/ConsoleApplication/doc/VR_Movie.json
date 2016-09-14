@@ -1,0 +1,38 @@
+{
+	"test.mp4": 
+	{
+		"url" :"test.mp4",
+		"talk":"是否要进行选择",
+		"select":2,		
+		"list":
+		{
+			"test0.mp4":
+			{
+				"url" :"test0.mp4",
+				"talk":"选择A",
+				"select":1,				
+				"list":
+				{ 
+					"test00.mp4":
+					{
+						"select":0
+					}
+				}
+
+			},	
+			"test1.mp4":
+			{
+				"url" :"test1.mp4",
+				"talk":"选择B",
+				"select":1,				
+				"list":
+				{ 
+					"test10.mp4":
+					{
+						"select":0
+					}
+				}
+			}
+		}
+	}
+}

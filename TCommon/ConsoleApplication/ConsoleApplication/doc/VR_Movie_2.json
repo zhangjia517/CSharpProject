@@ -1,0 +1,249 @@
+{
+	"_start.mp4": 
+	{
+		"url" :"/storage/emulated/0/mj_market/data/_start.mp4",
+		"startTipTime":31,
+		"endTipTime":48,
+		"listCount": 3,		
+		"list":
+		{
+			"a1.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/a1.mp4",
+				"listCount": 0				
+			},	
+			"a2.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/a2.mp4",
+				"listCount": 0				
+			},
+			"a3.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/a3.mp4",
+				"listCount": 0				
+			}
+		}
+	},
+	
+	
+	"a1.mp4": 
+	{
+		"url" :"/storage/emulated/0/mj_market/data/a1.mp4",
+		"startTipTime":28,
+		"endTipTime":48,
+		"listCount": 3,				
+		"list":
+		{
+			"b1.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/b1.mp4",
+				"listCount": 0				
+			},	
+			"b2.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/b2.mp4",
+				"listCount": 0				
+			},
+			"b3.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/b3.mp4",
+				"listCount": 0				
+			}
+		}
+	},
+	
+	
+	"a2.mp4": 
+	{
+		"url" :"/storage/emulated/0/mj_market/data/a2.mp4",	
+		"startTipTime":32,
+		"endTipTime":51,
+		"listCount": 3,		
+		"list":
+		{
+			"b2.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/b2.mp4",
+				"listCount": 0				
+			},	
+			"b3.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/b3.mp4",
+				"listCount": 0				
+			},
+			"b4.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/b4.mp4",
+				"listCount": 0				
+			}
+		}
+	},
+	
+	
+	
+	"a3.mp4": 
+	{
+		"url" :"/storage/emulated/0/mj_market/data/a3.mp4",
+		"startTipTime":25,
+		"endTipTime":45,		
+		"listCount": 3,		
+		"list":
+		{
+			"b3.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/b3.mp4",
+				"listCount": 0				
+			},	
+			"b4.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/b4.mp4",
+				"listCount": 0				
+			},
+			"b5.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/b5.mp4",
+				"listCount": 0				
+			}
+		}
+	},
+	
+	
+	"b1.mp4": 
+	{
+		"url" :"/storage/emulated/0/mj_market/data/b1.mp4",
+		"listCount": 0	
+	},
+	
+	
+	"b2.mp4": 
+	{
+		"url" :"/storage/emulated/0/mj_market/data/b2.mp4",
+		"listCount": 0		
+	},
+	
+	
+	"b3.mp4": 
+	{
+		"url" :"/storage/emulated/0/mj_market/data/b3.mp4",
+		"startTipTime":25,
+		"endTipTime":52,
+		"listCount": 3,				
+		"list":
+		{
+			"c1.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/c1.mp4",
+				"listCount": 0				
+			},	
+			"c2.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/c2.mp4",
+				"listCount": 0				
+			},
+			"c3.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/c3.mp4",
+				"listCount": 0				
+			}
+		}
+	},
+	
+	
+	"b4.mp4": 
+	{
+		"url" :"/storage/emulated/0/mj_market/data/b4.mp4",
+		"startTipTime":23,
+		"endTipTime":41,
+		"listCount": 3,	
+		"list":
+		{
+			"c2.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/c2.mp4",
+				"listCount": 0				
+			},	
+			"c3.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/c3.mp4",
+				"listCount": 0				
+			},
+			"c4.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/c4.mp4",
+				"listCount": 0				
+			}
+		}
+	},
+	
+	
+	"b5.mp4": 
+	{
+		"url" :"/storage/emulated/0/mj_market/data/b5.mp4",
+		"startTipTime":25,
+		"endTipTime":44,
+		"listCount": 3,	
+		"list":
+		{
+			"c3.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/c3.mp4",
+				"listCount": 0				
+			},	
+			"c4.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/c4.mp4",
+				"listCount": 0				
+			},
+			"c5.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/c5.mp4",
+				"listCount": 0				
+			}
+		}
+	},
+	
+	
+	"c1.mp4": 
+	{
+		"url" :"/storage/emulated/0/mj_market/data/c1.mp4",
+		"listCount": 0	
+	},
+	
+	
+	"c2.mp4": 
+	{
+		"url" :"/storage/emulated/0/mj_market/data/c2.mp4",
+		"listCount": 0	
+	},
+	
+	
+	"c3.mp4": 
+	{
+		"url" :"/storage/emulated/0/mj_market/data/c3.mp4",
+		"listCount": 0
+	},
+	
+	
+	"c4.mp4": 
+	{
+		"url" :"/storage/emulated/0/mj_market/data/c4.mp4",
+		"listCount": 0
+	},
+	
+	
+	"c5.mp4": 
+	{
+		"url" :"/storage/emulated/0/mj_market/data/c5.mp4",
+		"startTipTime":-1,
+		"endTipTime":-1,
+		"listCount": 1,	
+		"list":
+		{
+			"end.mp4":
+			{
+				"url" :"/storage/emulated/0/mj_market/data/end.mp4",
+				"listCount": 0				
+			}	
+		}
+	}
+}
