@@ -65,13 +65,14 @@ namespace ConsoleApplication
         public string Url { get; set; }
         public List<Node> Chidren { get; set; }
 
+
         public static Node Parse(JsonData data)
         {
             IDictionary dict = data as IDictionary;
             var node = new Node();
 
-            //if (dict["url"] == null)
-            //    return node;
+            if (dict["url"] == null)
+                return node;
             node.Url = dict["url"].ToString();
             node.Chidren = new List<Node>();
 
