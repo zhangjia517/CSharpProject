@@ -53,6 +53,7 @@
     <Compile Include="TJson.cs" />
     <Compile Include="TOutMax.cs" />
     <Compile Include="TProcess.cs" />
+    <Compile Include="TStringFormat.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
