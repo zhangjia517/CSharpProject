@@ -10,3 +10,9 @@ G:\C#Project\TFoo\TFoo\obj\Debug\TFoo.pdb
 G:\C#Project\TFoo\TFoo\bin\Debug\TFoo.exe
 G:\C#Project\TFoo\TFoo\bin\Debug\TFoo.pdb
 G:\C#Project\TFoo\TFoo\obj\Debug\TFoo.csprojResolveAssemblyReference.cache
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TFoo\TFoo\bin\Debug\TFoo.exe.config
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TFoo\TFoo\bin\Debug\TFoo.exe
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TFoo\TFoo\bin\Debug\TFoo.pdb
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TFoo\TFoo\obj\Debug\TFoo.csproj.CoreCompileInputs.cache
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TFoo\TFoo\obj\Debug\TFoo.exe
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TFoo\TFoo\obj\Debug\TFoo.pdb

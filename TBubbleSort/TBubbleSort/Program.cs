@@ -9,10 +9,6 @@ namespace TBubbleSort
         private static void Main(string[] args)
         {
             BubbleSort();
-            foreach (int i in array)
-            {
-                Console.WriteLine(i);
-            }
             Console.ReadKey();
         }
 
@@ -30,6 +26,11 @@ namespace TBubbleSort
                         array[j] = temp;
                     }
                 }
+            }
+
+            foreach (int i in array)
+            {
+                Console.WriteLine(i);
             }
         }
     }
