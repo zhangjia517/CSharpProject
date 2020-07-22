@@ -3,7 +3,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace TCommon
+namespace TCommon.Other
 {
     public class Video
     {
@@ -64,7 +64,6 @@ namespace TCommon
     {
         public string Url { get; set; }
         public List<Node> Chidren { get; set; }
-
 
         public static Node Parse(JsonData data)
         {

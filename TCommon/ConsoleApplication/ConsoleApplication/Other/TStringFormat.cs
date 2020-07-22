@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TCommon
+namespace TCommon.Other
 {
     internal static class TStringFormat
     {

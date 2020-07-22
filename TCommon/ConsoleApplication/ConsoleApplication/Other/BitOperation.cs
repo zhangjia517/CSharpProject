@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TCommon
+namespace TCommon.Other
 {
     public class BitOperation
     {

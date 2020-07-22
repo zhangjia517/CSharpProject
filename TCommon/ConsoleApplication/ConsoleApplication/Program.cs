@@ -1,13 +1,12 @@
 ﻿using System;
+using TCommon.DataStructure;
 
-namespace TCommon
+internal class Program
 {
-    internal class Program
+    private static void Main(string[] args)
     {
-        private static void Main(string[] args)
-        {
-            BitOperation.TDebug();
-            Console.ReadLine();
-        }
+        TBubbleSort.Execute();
+
+        Console.ReadLine();
     }
 }

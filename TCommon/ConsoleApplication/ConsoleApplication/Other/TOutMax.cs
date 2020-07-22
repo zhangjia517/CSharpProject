@@ -1,4 +1,4 @@
-﻿namespace TCommon
+﻿namespace TCommon.Other
 {
     internal class TOutMax
     {

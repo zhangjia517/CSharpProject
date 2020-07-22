@@ -11,12 +11,11 @@ D:\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\Co
 D:\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
 D:\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
 D:\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\LitJson.dll
-D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
-D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
-D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
 D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\LitJson.dll
-D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojAssemblyReference.cache
 D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
 D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CopyComplete
-D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
-D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\TCommon.exe.config
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\TCommon.exe
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\TCommon.pdb
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\TCommon.exe
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\TCommon.pdb
