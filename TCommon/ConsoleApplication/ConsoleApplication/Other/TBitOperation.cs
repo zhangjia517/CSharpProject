@@ -2,7 +2,7 @@
 
 namespace TCommon.Other
 {
-    public class BitOperation
+    public class TBitOperation
     {
         public static void TDebug()
         {

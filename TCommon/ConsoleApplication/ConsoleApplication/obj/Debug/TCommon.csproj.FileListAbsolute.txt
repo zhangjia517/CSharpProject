@@ -6,3 +6,4 @@ D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\C
 D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\TCommon.csproj.CopyComplete
 D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\TCommon.exe
 D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\TCommon.pdb
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\TCommon.csprojAssemblyReference.cache

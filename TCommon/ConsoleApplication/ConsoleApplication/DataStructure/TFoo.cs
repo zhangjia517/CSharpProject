@@ -8,7 +8,6 @@ namespace TCommon.DataStructure
         {
             Console.WriteLine(Foo1(10));
             Console.WriteLine(Foo2(100));
-            Console.ReadKey();
         }
 
         /// <summary>

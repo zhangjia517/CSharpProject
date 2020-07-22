@@ -49,7 +49,7 @@
   <ItemGroup>
     <Compile Include="DataStructure\TBubbleSort.cs" />
     <Compile Include="DataStructure\TFoo.cs" />
-    <Compile Include="Other\BitOperation.cs" />
+    <Compile Include="Other\TBitOperation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Other\TJson.cs" />
