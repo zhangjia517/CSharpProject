@@ -47,16 +47,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BitOperation.cs" />
+    <Compile Include="Other\BitOperation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TJson.cs" />
-    <Compile Include="TOutMax.cs" />
-    <Compile Include="TProcess.cs" />
-    <Compile Include="TStringFormat.cs" />
+    <Compile Include="Other\TJson.cs" />
+    <Compile Include="Other\TOutMax.cs" />
+    <Compile Include="Other\TProcess.cs" />
+    <Compile Include="Other\TStringFormat.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DataStructure\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

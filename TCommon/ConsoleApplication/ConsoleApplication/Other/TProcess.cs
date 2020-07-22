@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace ConsoleApplication
+namespace TCommon
 {
     internal class TProcess
     {

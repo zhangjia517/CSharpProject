@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApplication
+namespace TCommon
 {
     internal static class TStringFormat
     {

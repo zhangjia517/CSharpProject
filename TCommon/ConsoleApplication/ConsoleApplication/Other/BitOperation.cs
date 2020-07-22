@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApplication
+namespace TCommon
 {
     public class BitOperation
     {
@@ -11,18 +11,16 @@ namespace ConsoleApplication
             //i = 1 << 4;
             //Console.WriteLine(i);
 
-            //int value = 4;
-            //bool b = (value & 4) != 0;
-            //Console.WriteLine(b);
+            int value = 4;
+            bool b = (value & 4) != 0;
+            Console.WriteLine(b);
 
-            Console.WriteLine(getMinInt());
-
-            Console.ReadKey();
+            //Console.WriteLine(getMinInt());
         }
 
         private static int getMinInt()
         {
-            return ~6;//-2147483648
+            return ~6;// -2147483648 取反
         }
     }
 }

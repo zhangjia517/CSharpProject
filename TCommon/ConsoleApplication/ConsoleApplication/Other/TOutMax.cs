@@ -1,4 +1,4 @@
-﻿namespace ConsoleApplication
+﻿namespace TCommon
 {
     internal class TOutMax
     {

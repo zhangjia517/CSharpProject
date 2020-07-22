@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace ConsoleApplication
+namespace TCommon
 {
     internal class Program
     {
         private static void Main(string[] args)
         {
-            TJson.ToJ();
+            BitOperation.TDebug();
             Console.ReadLine();
         }
     }
