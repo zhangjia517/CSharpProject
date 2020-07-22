@@ -5,7 +5,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        TBubbleSort.Execute();
+        TFoo.Execute();
 
         Console.ReadLine();
     }
