@@ -1,0 +1,12 @@
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\obj\Debug\netcoreapp3.1\TCommon.csproj.CoreCompileInputs.cache
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\obj\Debug\netcoreapp3.1\TCommon.AssemblyInfoInputs.cache
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\obj\Debug\netcoreapp3.1\TCommon.AssemblyInfo.cs
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\bin\Debug\netcoreapp3.1\TCommon.exe
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\bin\Debug\netcoreapp3.1\TCommon.deps.json
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\bin\Debug\netcoreapp3.1\TCommon.runtimeconfig.json
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\bin\Debug\netcoreapp3.1\TCommon.runtimeconfig.dev.json
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\bin\Debug\netcoreapp3.1\TCommon.dll
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\bin\Debug\netcoreapp3.1\TCommon.pdb
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\obj\Debug\netcoreapp3.1\TCommon.dll
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\obj\Debug\netcoreapp3.1\TCommon.pdb
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\obj\Debug\netcoreapp3.1\TCommon.genruntimeconfig.cache

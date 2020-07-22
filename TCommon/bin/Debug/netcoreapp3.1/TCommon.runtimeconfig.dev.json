@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Foskill\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Foskill\\.nuget\\packages"
+    ]
+  }
+}

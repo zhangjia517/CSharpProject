@@ -1,9 +1,0 @@
-D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\TCommon.exe.config
-D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\TCommon.exe
-D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\TCommon.pdb
-D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\bin\Debug\LitJson.dll
-D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\TCommon.csproj.CoreCompileInputs.cache
-D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\TCommon.csproj.CopyComplete
-D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\TCommon.exe
-D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\TCommon.pdb
-D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\ConsoleApplication\ConsoleApplication\obj\Debug\TCommon.csprojAssemblyReference.cache
