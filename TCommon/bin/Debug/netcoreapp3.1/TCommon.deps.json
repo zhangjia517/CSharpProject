@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "TCommon/1.0.0": {
+        "dependencies": {
+          "LitJson": "0.5.0.0"
+        },
         "runtime": {
           "TCommon.dll": {}
+        }
+      },
+      "LitJson/0.5.0.0": {
+        "runtime": {
+          "LitJson.dll": {
+            "assemblyVersion": "0.5.0.0",
+            "fileVersion": "0.5.0.0"
+          }
         }
       }
     }
@@ -16,6 +27,11 @@
   "libraries": {
     "TCommon/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LitJson/0.5.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

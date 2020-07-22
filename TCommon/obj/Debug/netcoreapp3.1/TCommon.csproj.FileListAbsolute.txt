@@ -10,3 +10,6 @@ D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\bin\Debug\netcoreapp
 D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\obj\Debug\netcoreapp3.1\TCommon.dll
 D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\obj\Debug\netcoreapp3.1\TCommon.pdb
 D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\obj\Debug\netcoreapp3.1\TCommon.genruntimeconfig.cache
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\bin\Debug\netcoreapp3.1\LitJson.dll
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\obj\Debug\netcoreapp3.1\TCommon.csprojAssemblyReference.cache
+D:\Project\CodeProject\C#Project\CSharpTrialProject\TCommon\obj\Debug\netcoreapp3.1\TCommon.csproj.CopyComplete

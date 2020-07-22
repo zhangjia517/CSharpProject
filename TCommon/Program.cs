@@ -1,5 +1,4 @@
-﻿using System;
-using TCommon.DataStructure;
+﻿using TCommon.DataStructure;
 
 internal class Program
 {
@@ -7,6 +6,6 @@ internal class Program
     {
         TFoo.Execute();
 
-        Console.ReadLine();
+        //Console.ReadLine();
     }
 }

@@ -9,4 +9,10 @@
     <Folder Include="DataStructure\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="LitJson">
+      <HintPath>C:\Users\Foskill\Desktop\LitJson.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
