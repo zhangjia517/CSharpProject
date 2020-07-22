@@ -1,0 +1,57 @@
+var config = {
+    params:
+    {
+        logoimage: "Logo.png",
+        enableDebugging: "0",
+        disableContextMenu: true//屏蔽播放器右键菜单
+    }
+
+};
+var u = new UnityObject2(config);
+
+//给Unity3D发送消息
+function SendMessage(EntityName, FunctionName, Message) {
+    u.getUnity().SendMessage(EntityName, FunctionName, Message);
+}
+//接收Unity3D发送的消息（此函数给Unity3D调用）
+function ReadMessage(Message) {
+    window.external.ReadMessages(Message);
+}
+
+
+
+
+body {
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	background-color: black;
+	color: white;
+	text-align: center;
+	width:100%;
+	height:auto;
+	margin:0px;
+	padding:0px;
+}
+
+
+
+
+div.content {
+	margin: 0px;
+	width: 100%;
+	height:auto;
+	padding:0px;
+	
+}
+
+
+
+
+div#unityPlayer {
+	cursor: default;
+	height: 100%;
+	width: 100%;
+	margin:0px;
+	padding:0px;
+}
+
+

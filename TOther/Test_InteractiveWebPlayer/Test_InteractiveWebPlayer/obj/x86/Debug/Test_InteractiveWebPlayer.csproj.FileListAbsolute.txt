@@ -1,0 +1,48 @@
+C:\Documents and Settings\Administrator\桌面\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\Test_InteractiveWebPlayer.exe
+C:\Documents and Settings\Administrator\桌面\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\Test_InteractiveWebPlayer.pdb
+C:\Documents and Settings\Administrator\桌面\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\obj\x86\Debug\Test_InteractiveWebPlayer.Form1.resources
+C:\Documents and Settings\Administrator\桌面\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\obj\x86\Debug\Test_InteractiveWebPlayer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\obj\x86\Debug\Test_InteractiveWebPlayer.exe
+C:\Documents and Settings\Administrator\桌面\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\obj\x86\Debug\Test_InteractiveWebPlayer.pdb
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\obj\x86\Debug\Test_InteractiveWebPlayer.exe
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\obj\x86\Debug\Test_InteractiveWebPlayer.pdb
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\Test_InteractiveWebPlayer.exe
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\Test_InteractiveWebPlayer.pdb
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\obj\x86\Debug\Test_InteractiveWebPlayer.Form1.resources
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\obj\x86\Debug\Test_InteractiveWebPlayer.Properties.Resources.resources
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.AWT.WinForms.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.Reflection.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.Runtime.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\IKVM.Runtime.JNI.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\jcerti.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\msvcm90.dll
+D:\_WinformProject\Test_InteractiveWebPlayer\Test_InteractiveWebPlayer\bin\Debug\msvcm90d.dll

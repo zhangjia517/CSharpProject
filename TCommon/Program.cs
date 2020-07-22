@@ -1,10 +1,10 @@
-﻿using TCommon.DataStructure;
+﻿using TCommon.LeetCode;
 
 internal class Program
 {
     private static void Main(string[] args)
     {
-        TFoo.Execute();
+        RescueThePrincess.Execute();
 
         //Console.ReadLine();
     }
